@@ -3,7 +3,8 @@
 ## CONTENTS
 
 ### Chatbots
-- [ChatGPT](https://chatgpt.com) - Free unlimited general chatbot
+- [ChatGPT](https://chatgpt.com) - Versatile, suitable for general AI assistance, content generation, and conversational applications
+- [Microsoft Copilot](https://copilot.microsoft.com/chats/enVo9aEh4ijrQ5NwScHaV) - AI assistant within the Microsoft ecosystem, offering strengths in document editing, data analysis, and integration with other Microsoft products
 ### Memorization
 - [AnkiWeb](https://apps.ankiweb.net/) - For long-term memorization of specific topics and concepts
 ### Programming
@@ -11,6 +12,7 @@
 ### Math
 - [Thetawise](https://thetawise.ai/) - Math & Statistics Tutor with step-by-step explanations.
 - [MathGPT](https://math-gpt.org) - Solves various math, physics, accounting, and chemistry-related problems, providing step-by-step solutions. AI generated videos, flashcards, and personal study guides to help you understand concepts.
-### Writing
 ### Research
 - [Anara](https://anara.com/new) - Look for information in research articles. Anara helps researchers understand, organize, and write scientific papers.
+### Writing
+
