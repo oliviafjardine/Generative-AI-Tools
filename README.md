@@ -1,8 +1,9 @@
 # Awesome Generative AI Tools
-> A curated list of modern Generative Artificial Intelligence services. 
-## CONTENTS
+> A curated list of modern Generative Artificial Intelligence services.
 
 ![Image Alt](https://github.com/oliviafjardine/AI-Resources/blob/e21349ca66d891c9a6c3dbe67e9aec0648781ec1/image)
+
+## CONTENTS
 
 ### Chatbots
 - [ChatGPT](https://chatgpt.com) - Versatile, suitable for general AI assistance, content generation, and conversational applications
