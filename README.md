@@ -2,6 +2,8 @@
 > A curated list of modern Generative Artificial Intelligence services. 
 ## CONTENTS
 
+![Image Alt](https://github.com/oliviafjardine/AI-Resources/blob/e21349ca66d891c9a6c3dbe67e9aec0648781ec1/image)
+
 ### Chatbots
 - [ChatGPT](https://chatgpt.com) - Versatile, suitable for general AI assistance, content generation, and conversational applications
 - [Microsoft Copilot](https://copilot.microsoft.com/chats/enVo9aEh4ijrQ5NwScHaV) - AI assistant within the Microsoft ecosystem, offering strengths in document editing, data analysis, and integration with other Microsoft products
