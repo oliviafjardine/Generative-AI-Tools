@@ -18,6 +18,6 @@
 - [Thetawise](https://thetawise.ai/) - Math & Statistics Tutor with step-by-step explanations.
 - [MathGPT](https://math-gpt.org) - Solves various math, physics, accounting, and chemistry-related problems, providing step-by-step solutions. AI generated videos, flashcards, and personal study guides to help you understand concepts.
 ### Research
-- [Anara](https://anara.com/new) - Look for information in research articles. Anara helps researchers understand, organize, and write scientific papers.
+- [Anara](https://anara.com/new) - Look for information in research articles. Anara helps researchers understand, organize, and write scientific papers (limited to 5 free messages)
 ### Writing
 - [QuillBot](https://quillbot.com/paraphrasing-tool) - Helps writers of all skill levels fine-tune their writing by providing several tools, including its Grammar Checker, Paraphraser, Plagiarism Checker, Citation Generator, AI Detector, Translator, AI Humanizer and more. 
