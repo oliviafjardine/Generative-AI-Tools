@@ -7,6 +7,8 @@
 - [Microsoft Copilot](https://copilot.microsoft.com/chats/enVo9aEh4ijrQ5NwScHaV) - AI assistant within the Microsoft ecosystem, offering strengths in document editing, data analysis, and integration with other Microsoft products
 ### Memorization
 - [AnkiWeb](https://apps.ankiweb.net/) - For long-term memorization of specific topics and concepts
+### Notes Organization
+- [Unstuck AI](https://unstuckstudy.com) - Upload your files from lectures, slides, notes, and recordings to generate clear, comprehensive notes and summaries
 ### Programming
 - [Github Copilot](https://github.com/features/copilot) -  AI coding assistant that helps you write code faster and with less effort, allowing you to focus more energy on problem solving and collaboration
 ### Math
