@@ -25,4 +25,5 @@
 - [Anara](https://anara.com/new) - Look for information in research articles. Anara helps researchers understand, organize, and write scientific papers (limited to 5 free messages)
 
 ### Writing
-- [QuillBot](https://quillbot.com/paraphrasing-tool) - Helps writers of all skill levels fine-tune their writing by providing several tools, including its Grammar Checker, Paraphraser, Plagiarism Checker, Citation Generator, AI Detector, Translator, AI Humanizer and more. 
+- [QuillBot](https://quillbot.com/paraphrasing-tool) - Helps writers of all skill levels fine-tune their writing by providing several tools, including its Grammar Checker, Paraphraser, Plagiarism Checker, Citation Generator, AI Detector, Translator, AI Humanizer and more.
+- [HumanizerAI](https://aihumanize.io) - Paraphrases your writing, passing AI detectors like TurnItIn and GPTZero
